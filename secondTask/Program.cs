@@ -39,12 +39,14 @@ double[] InputValues()
     return array;
 }
 
-double FindIntersectionPoint (double[] values)
+double[] FindIntersectionPoint (double[] values)
 {
-    double point = (values[2] - values[0])/(values[1] - values[3]);
+    double[] point = new double[2];
+    point[0] = (values[2] - values[0])/(values[1] - values[3]);
+    point[1] = values[1] * point[0] + values[0];
     return point;
 }
 
 double[] values = InputValues();
-double intersectionPoint = FindIntersectionPoint(values);
-Console.WriteLine(intersectionPoint);
+double[] intersectionPoint = FindIntersectionPoint(values);
+Console.WriteLine($"({intersectionPoint[0]}; {intersectionPoint[1]})");
