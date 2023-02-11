@@ -1,0 +1,15 @@
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.csproj.AssemblyReference.cache
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.AssemblyInfoInputs.cache
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.AssemblyInfo.cs
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.csproj.CoreCompileInputs.cache
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\bin\Debug\net6.0\firstTask.exe
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\bin\Debug\net6.0\firstTask.deps.json
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\bin\Debug\net6.0\firstTask.runtimeconfig.json
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\bin\Debug\net6.0\firstTask.dll
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\bin\Debug\net6.0\firstTask.pdb
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.dll
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\refint\firstTask.dll
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.pdb
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\firstTask.genruntimeconfig.cache
+D:\Geekbrains\Разработчик. Программист. Цифровые профессии\1 четверть\Знакомство с языками программирования (семинары)\practice\sixthHomework\firstTask\obj\Debug\net6.0\ref\firstTask.dll
